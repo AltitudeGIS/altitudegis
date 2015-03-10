@@ -1,2 +1,2 @@
-# altitudegis
+# Altitude GIS
 AltitudeGIS Repository
